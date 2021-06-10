@@ -1,0 +1,54 @@
+Laravel development server started: http://0.0.0.0:8000
+Laravel development server started: http://0.0.0.0:8001
+[Mon Jun  7 08:49:33 2021] 192.168.13.39:64033 [200]: /favicon.ico
+Terminated
+Laravel development server started: http://0.0.0.0:8002
+Terminated
+Laravel development server started: http://0.0.0.0:8003
+[Mon Jun  7 08:52:26 2021] 192.168.13.39:65206 [200]: /favicon.ico
+Laravel development server started: http://0.0.0.0:8000
+[Mon Jun  7 08:55:56 2021] 192.168.13.39:57434 [200]: /favicon.ico
+Laravel development server started: http://0.0.0.0:8001
+Laravel development server started: http://0.0.0.0:8000
+Laravel development server started: http://0.0.0.0:8001
+[Mon Jun  7 13:20:54 2021] Failed to listen on 0.0.0.0:8001 (reason: Address already in use)
+Laravel development server started: http://0.0.0.0:8002
+[Mon Jun  7 13:21:57 2021] 192.168.13.39:50449 [200]: /favicon.ico
+Killed
+Laravel development server started: http://0.0.0.0:8002
+[Mon Jun  7 13:22:46 2021] Failed to listen on 0.0.0.0:8002 (reason: Address already in use)
+Laravel development server started: http://0.0.0.0:8003
+[Mon Jun  7 13:22:46 2021] Failed to listen on 0.0.0.0:8003 (reason: Address already in use)
+Laravel development server started: http://0.0.0.0:8004
+Killed
+Laravel development server started: http://0.0.0.0:8003
+Killed
+Laravel development server started: http://0.0.0.0:8005
+[Mon Jun  7 13:23:34 2021] Failed to listen on 0.0.0.0:8005 (reason: Address already in use)
+Laravel development server started: http://0.0.0.0:8006
+Killed
+Killed
+Laravel development server started: http://0.0.0.0:8004
+Laravel development server started: http://0.0.0.0:8007
+
+                                                     
+  Too many arguments, expected arguments "command".  
+                                                     
+
+Laravel development server started: http://0.0.0.0:8000
+[Mon Jun  7 13:27:50 2021] 192.168.13.39:51036 [200]: /favicon.ico
+[Mon Jun  7 13:28:06 2021] 192.168.13.39:61702 [200]: /favicon.ico
+[Mon Jun  7 13:28:47 2021] 192.168.13.39:59948 [200]: /favicon.ico
+[Mon Jun  7 13:28:49 2021] 192.168.13.39:57166 [200]: /favicon.ico
+[Mon Jun  7 13:28:54 2021] 192.168.13.39:57826 [200]: /favicon.ico
+[Thu Jun 10 07:31:11 2021] 192.168.13.39:55620 [200]: /favicon.ico
+[Thu Jun 10 08:37:42 2021] 192.168.13.39:62085 [200]: /favicon.ico
+[Thu Jun 10 08:37:47 2021] 192.168.13.39:54022 [200]: /favicon.ico
+Killed
+Laravel development server started: http://0.0.0.0:8001
+Laravel development server started: http://0.0.0.0:8000
+Killed
+Laravel development server started: http://0.0.0.0:8001
+[Thu Jun 10 14:28:17 2021] Failed to listen on 0.0.0.0:8001 (reason: Address already in use)
+Laravel development server started: http://0.0.0.0:8002
+Laravel development server started: http://0.0.0.0:8000

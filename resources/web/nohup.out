@@ -1,0 +1,2609 @@
+yarn run v1.22.10
+warning ../../../package.json: No license field
+$ nuxt
+ℹ [HPM] Proxy created: /api  -> http://localhost:8000
+ℹ Listening on: http://192.168.13.90:3000/
+ℹ Preparing project for development
+ℹ Initial build may take a while
+ℹ Discovered Components: .nuxt/components/readme.md
+✔ Builder initialized
+✔ Nuxt files generated
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 21.03s
+✔ Client: Compiled successfully in 26.31s
+ℹ Waiting for file changes
+ℹ Memory usage: 225 MB (RSS: 352 MB)
+ℹ Listening on: http://192.168.13.90:3000/
+
+ ERROR  connect ECONNREFUSED 127.0.0.1:8000
+
+  at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+
+Killed
+error Command failed with exit code 137.
+info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+yarn run v1.22.10
+warning ../../../package.json: No license field
+$ nuxt
+ℹ [HPM] Proxy created: /api  -> http://localhost:8000
+ℹ Listening on: http://192.168.13.90:3000/
+ℹ Preparing project for development
+ℹ Initial build may take a while
+ℹ Discovered Components: .nuxt/components/readme.md
+✔ Builder initialized
+✔ Nuxt files generated
+ℹ Compiling Server
+ℹ Compiling Client
+✔ Server: Compiled successfully in 18.06s
+✔ Client: Compiled successfully in 23.36s
+ℹ Waiting for file changes
+ℹ Memory usage: 177 MB (RSS: 317 MB)
+ℹ Listening on: http://192.168.13.90:3000/
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 5.40s
+✔ Client: Compiled successfully in 11.73s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  131:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  139:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  147:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+
+✖ 5 problems (0 errors, 5 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 2.68s
+✔ Client: Compiled successfully in 2.66s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 2.05s
+✔ Client: Compiled successfully in 2.07s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.74s
+✔ Client: Compiled successfully in 1.77s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.58s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.75s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+✔ Client: Compiled successfully in 1.25s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.28s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.53s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.53s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.41s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.42s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.41s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+   67:27  warning  Attribute "ref" should go before ":value"             vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 6 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.47s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.45s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+   67:27  warning  Attribute "ref" should go before ":value"             vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 6 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.47s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.37s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+   67:27  warning  Attribute "ref" should go before ":value"             vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 6 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.40s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.23s
+✔ Client: Compiled successfully in 1.39s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+   67:27  warning  Attribute "ref" should go before ":value"             vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 6 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.33s
+✔ Client: Compiled successfully in 1.37s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.30s
+✔ Client: Compiled successfully in 1.35s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.29s
+✔ Client: Compiled with some errors in 1.33s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 7 problems (1 error, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+
+ ERROR  Failed to compile with 1 errors
+
+
+ ERROR  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+  66:27  error  'v-bind' directives don't support the modifier 'lazy'  vue/valid-v-bind
+
+✖ 7 problems (1 error, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+✔ Server: Compiled successfully in 1.00s
+✔ Client: Compiled with some errors in 1.04s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 7 problems (1 error, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+
+ ERROR  Failed to compile with 1 errors
+
+
+ ERROR  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+  66:27  error  'v-bind' directives don't support the modifier 'lazy'  vue/valid-v-bind
+
+✖ 7 problems (1 error, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.39s
+✔ Client: Compiled successfully in 1.46s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.24s
+✔ Client: Compiled successfully in 1.30s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+   67:27  warning  Attribute "v-model" should go before ":value"         vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  249:7   warning  Unexpected console statement                          no-console
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 6 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 2.05s
+✔ Client: Compiled successfully in 2.89s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+✔ Server: Compiled successfully in 1.51s
+✔ Client: Compiled successfully in 1.57s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.70s
+✔ Client: Compiled successfully in 1.77s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+   67:56  warning  Unexpected usage of 'this'                            vue/this-in-template
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.60s
+✔ Client: Compiled successfully in 1.64s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+   67:56  warning  Unexpected usage of 'this'                            vue/this-in-template
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.48s
+✔ Client: Compiled successfully in 1.51s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.42s
+✔ Client: Compiled successfully in 1.48s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.38s
+✔ Client: Compiled successfully in 1.42s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.34s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.50s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.31s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.33s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.33s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.36s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.32s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.34s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+✔ Client: Compiled successfully in 1.09s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.12s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 2.40s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 2.45s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 2.03s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+   67:27  warning  Attribute "ref" should go before "type"               vue/attributes-order
+  134:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  142:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  150:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  249:7   warning  Unexpected console statement                          no-console
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 6 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 2.11s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+✔ Client: Compiled successfully in 1.41s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.44s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.63s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.65s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.76s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  133:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  141:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  149:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  248:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.78s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+✔ Server: Compiled successfully in 1.04s
+✔ Client: Compiled successfully in 1.19s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.39s
+✔ Client: Compiled successfully in 1.42s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.26s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.40s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.29s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.30s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.33s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.35s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.33s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  132:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  140:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  148:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  247:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.35s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.26s
+✔ Client: Compiled successfully in 1.40s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  253:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.34s
+✔ Client: Compiled with some errors in 1.40s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+
+✖ 7 problems (2 errors, 5 warnings)
+  1 error and 5 warnings potentially fixable with the `--fix` option.
+
+
+
+ ERROR  Failed to compile with 1 errors
+
+
+ ERROR  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+  255:9   error  Expected property shorthand  object-shorthand
+  256:17  error  'editCol' is not defined     no-undef
+
+✖ 7 problems (2 errors, 5 warnings)
+  1 error and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.37s
+✔ Client: Compiled with some errors in 1.42s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+
+✖ 7 problems (2 errors, 5 warnings)
+  1 error and 5 warnings potentially fixable with the `--fix` option.
+
+
+
+ ERROR  Failed to compile with 1 errors
+
+
+ ERROR  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+  255:9   error  Expected property shorthand  object-shorthand
+  256:17  error  'editCol' is not defined     no-undef
+
+✖ 7 problems (2 errors, 5 warnings)
+  1 error and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.27s
+✔ Client: Compiled with some errors in 1.34s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+
+✖ 6 problems (1 error, 5 warnings)
+  1 error and 5 warnings potentially fixable with the `--fix` option.
+
+
+
+ ERROR  Failed to compile with 1 errors
+
+
+ ERROR  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+  255:9  error  Expected property shorthand  object-shorthand
+
+✖ 6 problems (1 error, 5 warnings)
+  1 error and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.27s
+✔ Client: Compiled successfully in 1.31s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+
+✖ 5 problems (0 errors, 5 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.29s
+✔ Client: Compiled successfully in 1.35s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.25s
+✔ Client: Compiled successfully in 1.29s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+✔ Server: Compiled successfully in 1.46s
+✔ Client: Compiled successfully in 2.30s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 2.06s
+✔ Client: Compiled successfully in 2.10s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 1.78s
+✔ Client: Compiled successfully in 1.82s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  139:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  147:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  155:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  261:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Calender.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.61s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  139:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  147:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  155:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  261:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.77s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.47s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  147:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  155:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  163:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  269:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.60s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.52s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  147:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  155:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  163:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  269:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.55s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.47s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  162:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  268:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.49s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled with some errors in 1.16s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  162:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  268:7   warning  Unexpected console statement                          no-console
+
+✖ 7 problems (1 error, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+
+ ERROR  Failed to compile with 1 errors
+
+
+ ERROR  in ./components/Calender.vue?vue&type=template&id=c8aa51d6&
+
+Syntax Error: Unexpected token (1:2258)
+
+
+ @ ./components/Calender.vue?vue&type=template&id=c8aa51d6& 1:0-200 1:0-200
+ @ ./components/Calender.vue
+ @ ./.nuxt/components/plugin.js
+ @ ./.nuxt/index.js
+ @ ./.nuxt/client.js
+ @ multi ./node_modules/eventsource-polyfill/dist/browserify-eventsource.js (webpack)-hot-middleware/client.js?reload=true&timeout=30000&ansiColors=&overlayStyles=&path=%2F__webpack_hmr%2Fclient&name=client ./.nuxt/client.js
+
+✔ Server: Compiled with some errors in 1.18s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.29s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  162:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  268:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.39s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 2.87s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 2.88s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.84s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 2.01s
+↻ Updated components/Calender.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 1.83s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 1.85s
+↻ Updated components/Weekly.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 913.64ms
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  33:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 929.76ms
+↻ Updated components/Weekly.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Client: Compiled successfully in 761.92ms
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  33:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+✔ Server: Compiled successfully in 805.37ms
+
+ ERROR  [Vue warn]: Property or method "text" is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property. See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties.
+
+found in
+
+---> <Weekly> at components/Weekly.vue
+       <Pages/index.vue> at pages/index.vue
+         <Nuxt>
+           <VApp>
+             <Layouts/default.vue> at layouts/default.vue
+               <Root>
+
+
+ ERROR  [Vue warn]: Property or method "bold" is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property. See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties.
+
+found in
+
+---> <Weekly> at components/Weekly.vue
+       <Pages/index.vue> at pages/index.vue
+         <Nuxt>
+           <VApp>
+             <Layouts/default.vue> at layouts/default.vue
+               <Root>
+
+
+ ERROR  [Vue warn]: Property or method "text" is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property. See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties.
+
+found in
+
+---> <Weekly> at components/Weekly.vue
+       <Pages/index.vue> at pages/index.vue
+         <Nuxt>
+           <VApp>
+             <Layouts/default.vue> at layouts/default.vue
+               <Root>
+
+
+ ERROR  [Vue warn]: Property or method "bold" is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property. See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties.
+
+found in
+
+---> <Weekly> at components/Weekly.vue
+       <Pages/index.vue> at pages/index.vue
+         <Nuxt>
+           <VApp>
+             <Layouts/default.vue> at layouts/default.vue
+               <Root>
+
+
+ ERROR  [Vue warn]: Property or method "text" is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property. See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties.
+
+found in
+
+---> <Weekly> at components/Weekly.vue
+       <Pages/index.vue> at pages/index.vue
+         <Nuxt>
+           <VApp>
+             <Layouts/default.vue> at layouts/default.vue
+               <Root>
+
+
+ ERROR  [Vue warn]: Property or method "bold" is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property. See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties.
+
+found in
+
+---> <Weekly> at components/Weekly.vue
+       <Pages/index.vue> at pages/index.vue
+         <Nuxt>
+           <VApp>
+             <Layouts/default.vue> at layouts/default.vue
+               <Root>
+
+
+ ERROR  [Vue warn]: Property or method "text" is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property. See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties.
+
+found in
+
+---> <Weekly> at components/Weekly.vue
+       <Pages/index.vue> at pages/index.vue
+         <Nuxt>
+           <VApp>
+             <Layouts/default.vue> at layouts/default.vue
+               <Root>
+
+
+ ERROR  [Vue warn]: Property or method "bold" is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property. See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties.
+
+found in
+
+---> <Weekly> at components/Weekly.vue
+       <Pages/index.vue> at pages/index.vue
+         <Nuxt>
+           <VApp>
+             <Layouts/default.vue> at layouts/default.vue
+               <Root>
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Client
+ℹ Compiling Server
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 651.77ms
+✔ Client: Compiled successfully in 808.15ms
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  33:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+
+ ERROR  [Vue warn]: Property or method "textbold" is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property. See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties.
+
+found in
+
+---> <Weekly> at components/Weekly.vue
+       <Pages/index.vue> at pages/index.vue
+         <Nuxt>
+           <VApp>
+             <Layouts/default.vue> at layouts/default.vue
+               <Root>
+
+
+ ERROR  [Vue warn]: Property or method "textbold" is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property. See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties.
+
+found in
+
+---> <Weekly> at components/Weekly.vue
+       <Pages/index.vue> at pages/index.vue
+         <Nuxt>
+           <VApp>
+             <Layouts/default.vue> at layouts/default.vue
+               <Root>
+
+
+ ERROR  [Vue warn]: Property or method "textbold" is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property. See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties.
+
+found in
+
+---> <Weekly> at components/Weekly.vue
+       <Pages/index.vue> at pages/index.vue
+         <Nuxt>
+           <VApp>
+             <Layouts/default.vue> at layouts/default.vue
+               <Root>
+
+
+ ERROR  [Vue warn]: Property or method "textbold" is not defined on the instance but referenced during render. Make sure that this property is reactive, either in the data option, or for class-based components, by initializing the property. See: https://vuejs.org/v2/guide/reactivity.html#Declaring-Reactive-Properties.
+
+found in
+
+---> <Weekly> at components/Weekly.vue
+       <Pages/index.vue> at pages/index.vue
+         <Nuxt>
+           <VApp>
+             <Layouts/default.vue> at layouts/default.vue
+               <Root>
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 728.40ms
+✔ Client: Compiled successfully in 769.93ms
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  33:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Server
+ℹ Compiling Client
+✔ Server: Compiled with some errors in 701.22ms
+✔ Client: Compiled with some errors in 746.47ms
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+
+ ERROR  Failed to compile with 1 errors
+
+
+ ERROR  in ./components/Weekly.vue?vue&type=script&lang=js&
+
+Syntax Error: Unexpected token (41:2)
+
+  39 |   data:()=> {
+  40 |     value: moment().format('yyyy-MM-DD'),
+> 41 |   },
+     |   ^
+  42 | };
+  43 |
+
+
+ @ ./components/Weekly.vue?vue&type=script&lang=js& 1:0-170 1:186-189 1:191-358 1:191-358
+ @ ./components/Weekly.vue
+ @ ./.nuxt/components/plugin.js
+ @ ./.nuxt/index.js
+ @ ./.nuxt/client.js
+ @ multi ./node_modules/eventsource-polyfill/dist/browserify-eventsource.js (webpack)-hot-middleware/client.js?reload=true&timeout=30000&ansiColors=&overlayStyles=&path=%2F__webpack_hmr%2Fclient&name=client ./.nuxt/client.js
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 455.55ms
+✔ Client: Compiled successfully in 1.01s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  34:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 661.05ms
+✔ Client: Compiled successfully in 1.26s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  36:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 986.21ms
+✔ Client: Compiled successfully in 1.03s
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  36:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 861.53ms
+✔ Client: Compiled successfully in 903.42ms
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  36:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 864.27ms
+✔ Client: Compiled successfully in 912.57ms
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  40:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Server
+ℹ Compiling Client
+✔ Server: Compiled successfully in 781.67ms
+✔ Client: Compiled successfully in 829.66ms
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  36:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Server
+ℹ Compiling Client
+✔ Server: Compiled successfully in 799.08ms
+✔ Client: Compiled successfully in 848.76ms
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  36:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 765.47ms
+✔ Client: Compiled successfully in 813.19ms
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  36:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 449.76ms
+✔ Client: Compiled successfully in 831.66ms
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  40:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 789.37ms
+✔ Client: Compiled successfully in 834.02ms
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  40:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 764.23ms
+✔ Client: Compiled successfully in 788.80ms
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  40:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+↻ Updated components/Weekly.vue
+ℹ Compiling Server
+ℹ Compiling Client
+
+ WARN  Though the "loose" option was set to "false" in your @babel/preset-env config, it will not be used for @babel/plugin-proposal-private-methods since the "loose" mode option was set to "true" for @babel/plugin-proposal-class-properties.
+The "loose" option must be the same for @babel/plugin-proposal-class-properties, @babel/plugin-proposal-private-methods and @babel/plugin-proposal-private-property-in-object (when they are enabled): you can silence this warning by explicitly adding
+	["@babel/plugin-proposal-private-methods", { "loose": true }]
+to the "plugins" section of your Babel config.
+
+✔ Server: Compiled successfully in 846.00ms
+✔ Client: Compiled successfully in 890.32ms
+
+ WARN  Compiled with 1 warnings
+
+
+ WARN  ESLintError
+
+
+/home/pi/laravel-nuxt/resources/web/components/Calender.vue
+   21:9   warning  Attribute "ref" should go before ":month-format"      vue/attributes-order
+   22:9   warning  Attribute "v-model" should go before ":month-format"  vue/attributes-order
+  138:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  146:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  154:21  warning  Attribute "v-model" should go before "type"           vue/attributes-order
+  260:7   warning  Unexpected console statement                          no-console
+
+/home/pi/laravel-nuxt/resources/web/components/Weekly.vue
+  40:5  warning  Prop 'lists' requires default value to be set  vue/require-default-prop
+
+✖ 7 problems (0 errors, 7 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
+
+
+ ERROR  connect ECONNREFUSED 127.0.0.1:8000
+
+  at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1146:16)
+
